@@ -7,7 +7,7 @@ public class Pepsi extends Item {
     }
 
     public static int getPepsiPrice() {
-        return PEPSI_PRICE;
+        return PEPSI_PRICE ;
     }
 
     public static void setPepsiPrice(int pepsiPrice) {

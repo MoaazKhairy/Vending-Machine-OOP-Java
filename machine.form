@@ -309,7 +309,7 @@
           </grid>
         </constraints>
         <properties>
-          <text value="Penny (1 Cent)"/>
+          <text value=" Penny (1 Cent)"/>
         </properties>
       </component>
       <component id="14dde" class="javax.swing.JLabel">

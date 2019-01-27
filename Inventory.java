@@ -13,7 +13,7 @@ public class Inventory {
     private Item item;
 
     public void enterItem(Item item , int numberOfItems){
-        item.setItemNumber(numberOfItems);
+        item.setItemNumber(numberOfItems) ;
     }
 
     public void removeItem(Item item , int numberOfItems){

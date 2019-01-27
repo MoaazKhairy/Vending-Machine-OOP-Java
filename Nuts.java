@@ -14,6 +14,6 @@ public class Nuts extends Item {
         NUTS_PRICE = nutsPrice;
     }
 
-    private static int NUTS_PRICE = 90;
+    private static int NUTS_PRICE = 90 ;
 
 }

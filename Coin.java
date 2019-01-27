@@ -4,7 +4,7 @@ public abstract class Coin {
     public Coin(int coinValue , int coinNumberInMachine) {
         this.coinValue = coinValue;
         this.coinNumberInMachine = coinNumberInMachine;
-        this.coinInitialNumberInMachine = coinNumberInMachine;
+        this.coinInitialNumberInMachine = coinNumberInMachine ;
     }
 
     private int coinValue;

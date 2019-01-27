@@ -5,7 +5,7 @@ public abstract class Item {
         this.itemNumber = itemNumber;
         this.itemPrice = itemPrice;
         this.itemName = itemName;
-        this.initialAmountOfItem = itemNumber;
+        this.initialAmountOfItem = itemNumber ;
     }
 
     private String itemName;

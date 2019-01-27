@@ -5,7 +5,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class machine {
-    private JPanel panelMain;
+    private JPanel panelMain ;
     private JButton pennyButton;
     private JButton nickelButton;
     private JButton dimeButton;

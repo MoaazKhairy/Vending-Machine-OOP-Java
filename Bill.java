@@ -8,7 +8,7 @@ public class Bill {
 
     private static int SUM_OF_ITEMS_PRICE;
     private static int CHANGE;
-    private static int SUM_OF_INSERTED_CENTS;
+    private static int SUM_OF_INSERTED_CENTS ;
 
     public static void pay(int sumItemPrice , int sumInsertedCents) throws NotSufficientPaidException {
         if(sumItemPrice > sumInsertedCents){

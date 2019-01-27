@@ -13,7 +13,7 @@ public class Snack extends Item {
         SNACK_PRICE = snackPrice;
     }
 
-    private static int SNACK_PRICE = 50;
+    private static int SNACK_PRICE = 50 ;
 
 
 }

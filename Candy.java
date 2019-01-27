@@ -3,7 +3,7 @@ package com.company;
 public class Candy extends Item {
 
     public Candy(String itemName, int itemPrice, int itemNumber) {
-        super(itemName, itemPrice, itemNumber);
+        super(itemName, itemPrice, itemNumber) ;
 
     }
 
